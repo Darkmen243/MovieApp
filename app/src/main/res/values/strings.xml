@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="delete">Delete</string>
+    <string name="director">Director</string>
+    <string name="save">Save</string>
+    <string name="country">Country</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="title">Title</string>
+    <string name="mark_as_watched">Mark as Watched</string>
+    <string name="enter_username">Enter username</string>
+    <string name="save_user">Save User</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_user">Add User</string>
+    <string name="watched_no">Watched: No</string>
+</resources>
